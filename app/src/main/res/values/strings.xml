@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Address Book</string>
+    <string name="list_empty">No contacts</string>
+    <string name="permission_not_granted">Permission not granted!</string>
+</resources>
